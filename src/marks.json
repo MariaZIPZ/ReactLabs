@@ -1,0 +1,10 @@
+[
+  { "subject": "Математичний аналіз", "mark": 89 },
+  { "subject": "ООП", "mark": 95 },
+  { "subject": "Веб", "mark": 90 },
+  { "subject": "Архітектура комп'ютера", "mark": 80 },
+  { "subject": "Алгоритми та структури даних", "mark": 72 },
+  { "subject": "ASP .NET", "mark": 98 },
+  { "subject": "PHP", "mark": 92 },
+  { "subject": "Англійська мова", "mark": 97 }
+]
